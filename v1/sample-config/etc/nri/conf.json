@@ -1,0 +1,11 @@
+{
+    "version": "0.1",
+    "plugins": [
+        {
+            "type": "logger-v1",
+            "conf": {
+                "logFile": "/tmp/nri-logger.log"
+            }
+        }
+    ]
+}
